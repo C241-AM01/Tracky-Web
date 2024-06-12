@@ -68,13 +68,12 @@
         <div class="relative z-10 flex items-center justify-center min-h-screen px-10 text-center grow py-14">
             <div>
                 <a href="#!"><img src="{{ URL::asset('build/images/trackylogo.png') }}" alt="" class="block mx-auto mb-14 h-14"></a>
-                <img src="{{ URL::asset('build/images/auth-modern.png') }}" alt="" class="block object-cover mx-auto shadow-lg md:max-w-md rounded-xl shadow-custom-800">
+                <img src="{{ URL::asset('build/images/dashboard.png') }}" alt="" class="block object-cover mx-auto shadow-lg md:max-w-md rounded-xl shadow-custom-800">
                 <div class="mt-10 text-center">
-                    <h3 class="mt-4 mb-3 capitalize text-black">Tools for crafting your business's brand identity
+                    <h3 class="mt-4 mb-3 capitalize text-black">Tools For Seamless Asset Management
                     </h3>
-                    <p class="max-w-2xl text-black text-16">Unlock the potential of our versatile branding tools,
-                        designed to empower your business in shaping a distinctive and impactful brand. Elevate your
-                        business's image and leave a lasting impression with our comprehensive branding solutions.</p>
+                    <p class="max-w-2xl text-black text-16">Unlock the potential of our comprehensive asset management tools, designed to empower your business in tracking both static and mobile assets. Elevate your business’s capabilities with our innovative live tracking solutions.
+</p>
                 </div>
             </div>
         </div>
